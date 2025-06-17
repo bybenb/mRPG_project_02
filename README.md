@@ -1,5 +1,5 @@
 # Máquina de Cápsulas
---- 
+
 esse projecto pertence ao meu mentor **[Masahito](http://www.ma5a.com/)** disponível [aqui](https://codepen.io/Ma5a/full/OJdWKYZ). Todos direitos reservados à Ele.
 
 
